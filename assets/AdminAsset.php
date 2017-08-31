@@ -22,7 +22,8 @@ class AdminAsset extends AssetBundle
     ];
 
     public $js = [
-        'admin.main.js'
+        'admin.main.js',
+        'jquery-sortable-lists.min.js',
     ];
 
     public $depends = [
